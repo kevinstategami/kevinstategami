@@ -98,6 +98,7 @@
                         <li>React Native</li>
                         <li>Vue Js</li>
                         <li>Karma/Jasmine</li>
+                        <li>Jest</li>
                         <li>Node Js</li>
                         <li>PHP</li>
                         <li>Laravel Framework</li>
